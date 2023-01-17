@@ -1,0 +1,16 @@
+current directory: /home/satish-sehgal/school/vendor/bundle/ruby/3.1.0/gems/debug-1.7.1/ext/debug
+/home/satish-sehgal/.rvm/rubies/ruby-3.1.0/bin/ruby -I /home/satish-sehgal/.rvm/rubies/ruby-3.1.0/lib/ruby/3.1.0 -r ./siteconf20230115-4739-ppmpa9.rb extconf.rb
+creating Makefile
+
+current directory: /home/satish-sehgal/school/vendor/bundle/ruby/3.1.0/gems/debug-1.7.1/ext/debug
+make DESTDIR\= clean
+
+current directory: /home/satish-sehgal/school/vendor/bundle/ruby/3.1.0/gems/debug-1.7.1/ext/debug
+make DESTDIR\=
+compiling debug.c
+compiling iseq_collector.c
+linking shared-object debug/debug.so
+
+current directory: /home/satish-sehgal/school/vendor/bundle/ruby/3.1.0/gems/debug-1.7.1/ext/debug
+make DESTDIR\= install
+/usr/bin/install -c -m 0755 debug.so ./.gem.20230115-4739-z0d1yx/debug
